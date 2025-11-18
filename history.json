@@ -1,0 +1,48 @@
+[
+  {
+    "timestamp": "2025-11-18 12:05:08",
+    "type": "event",
+    "input": "interview",
+    "mapped": "interview",
+    "color": "blue",
+    "gender": "",
+    "season": "winter",
+    "suggestions": [
+      "soft blue sweater with beige trousers (layer and choose warmer fabrics for winter)"
+    ]
+  },
+  {
+    "timestamp": "2025-11-18 12:05:46",
+    "type": "mood",
+    "input": "calm",
+    "mapped": "calm",
+    "color": "blue",
+    "gender": "",
+    "season": null,
+    "suggestions": [
+      "soft blue sweater with beige trousers",
+      "sky-blue shirt with grey slacks"
+    ]
+  },
+  {
+    "timestamp": "2025-11-18 12:25:41",
+    "type": "mood",
+    "input": "happy",
+    "mapped": "happy",
+    "color": "yellow",
+    "gender": "",
+    "season": null,
+    "suggestions": [
+      "sunny yellow tee with denim shorts",
+      "mustard sweater with jeans"
+    ]
+  },
+  {
+    "input_type": "mood",
+    "color": "yellow",
+    "suggestions": [
+      "a bright yellow t-shirt with light jeans",
+      "a mustard yellow hoodie with joggers"
+    ]
+  }
+]
