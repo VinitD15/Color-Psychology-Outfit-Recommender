@@ -58,7 +58,8 @@ The bot also saves everything in a JSON file so the data doesn’t get lost.
 5. Run the program:
    python festival_bot.py
 
-![Festival Reminder Bot Menu](image_alt)
+![Festival Reminder Bot Menu](https://github.com/VinitD15/Color-Psychology-Outfit-Recommender/blob/main/Screenshot.png?raw=true)
+
 
 
 
